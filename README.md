@@ -1,5 +1,5 @@
-# Thank View Logs
-an implementation of ThankView's Salesforce integration custom object
+# ThankView Logs
+an implementation of ThankView's Salesforce integration custom object, based on documentation available here: (https://community.thankview.com/t/83hza27/salesforce-integration)
 
 **Version 1.0**: 
 
