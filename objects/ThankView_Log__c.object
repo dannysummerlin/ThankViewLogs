@@ -88,15 +88,15 @@
 	</fields>
     <fields>
         <fullName>Url__c</fullName>
-		<type>URL</type>
+		<type>Url</type>
 	</fields>
     <fields>
         <fullName>Video_Reply__c</fullName>
-		<type>URL</type>
+		<type>Url</type>
 	</fields>
     <fields>
         <fullName>Video_Url__c</fullName>
-		<type>URL</type>
+		<type>Url</type>
 	</fields>
     <fields>
         <fullName>Views__c</fullName>
