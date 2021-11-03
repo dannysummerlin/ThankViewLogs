@@ -16,7 +16,7 @@
 	</fields>
     <fields>
         <fullName>Clicked__c</fullName>
-		<type>checkbox</type> 
+		<type>Checkbox</type> 
 	</fields>
     <fields>
         <fullName>Contact__c</fullName>
