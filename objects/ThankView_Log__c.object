@@ -14,11 +14,13 @@
         <fullName>Bounced__c</fullName>
         <label>Bounced</label>
         <type>Checkbox</type>
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Clicked__c</fullName>
         <label>Clicked</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Contact__c</fullName>
@@ -31,19 +33,23 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
+        <label>Contact</label>
         <type>Lookup</type>
 	</fields>
     <fields>
         <fullName>CTA_Clicked__c</fullName>
         <label>CTA Clicked</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Downloaded__c</fullName>
         <label>Downloaded</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
+        <length>255</length>
         <fullName>Event_Name__c</fullName>
         <label>Event Name</label>
         <type>Text</type>
@@ -52,6 +58,7 @@
         <fullName>Finished_Watching__c</fullName>
         <label>Finished Watching</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Lead__c</fullName>
@@ -71,6 +78,7 @@
         <fullName>Opened__c</fullName>
         <label>Opened</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Sent_Date__c</fullName>
@@ -81,11 +89,13 @@
         <fullName>Shared__c</fullName>
         <label>Shared</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Started_Watching__c</fullName>
         <label>Started Watching</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Text_Reply__c</fullName>
@@ -96,6 +106,7 @@
         <fullName>Unsubscribed__c</fullName>
         <label>Unsubscribed</label>
         <type>Checkbox</type> 
+        <defaultValue>False</defaultValue>
 	</fields>
     <fields>
         <fullName>Url__c</fullName>
@@ -114,7 +125,6 @@
 	</fields>
     <fields>
         <fullName>Views__c</fullName>
-        <length>18</length>
         <label>Views</label>
         <type>Number</type>
 	</fields>
