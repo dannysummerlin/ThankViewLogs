@@ -8,7 +8,7 @@
         <label>ThankView Log</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>ThankViewLogs</pluralLabel>
+    <pluralLabel>Thank View Logs</pluralLabel>
     <sharingModel>ReadWrite</sharingModel>
     <fields>
         <fullName>Bounced__c</fullName>
