@@ -4,6 +4,7 @@ an implementation of ThankView's Salesforce integration custom object, based on 
 **Version 1.0**: 
 
 Test in your sandbox:
+
 [<img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">](https://githubsfdeploy-sandbox.herokuapp.com/app/githubdeploy/dannysummerlin/ThankViewLogs?ref=main)
 
 Or deploy to production:
