@@ -8,7 +8,7 @@
         <label>ThankView Log</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Thank View Logs</pluralLabel>
+    <pluralLabel>ThankView Logs</pluralLabel>
     <sharingModel>ReadWrite</sharingModel>
     <fields>
         <fullName>Bounced__c</fullName>
@@ -130,4 +130,5 @@
         <label>Views</label>
         <type>Number</type>
 	</fields>
+    <enableReports>true</enableReports>
 </CustomObject>

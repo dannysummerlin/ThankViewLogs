@@ -5,109 +5,109 @@
 		<name>ApiEnabled</name>
 	</userPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Bounced__c</field>
+		<field>ThankView__c.Bounced__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Clicked__c</field>
+		<field>ThankView__c.Clicked__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Contact__c</field>
+		<field>ThankView__c.Contact__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.CTA_Clicked__c</field>
+		<field>ThankView__c.CTA_Clicked__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Downloaded__c</field>
+		<field>ThankView__c.Downloaded__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Event_Name__c</field>
+		<field>ThankView__c.Event_Name__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Finished_Watching__c</field>
+		<field>ThankView__c.Finished_Watching__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Lead__c</field>
+		<field>ThankView__c.Lead__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Opened__c</field>
+		<field>ThankView__c.Opened__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Sent_Date__c</field>
+		<field>ThankView__c.Sent_Date__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Shared__c</field>
+		<field>ThankView__c.Shared__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Started_Watching__c</field>
+		<field>ThankView__c.Started_Watching__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Text_Reply__c</field>
+		<field>ThankView__c.Text_Reply__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Unsubscribed__c</field>
+		<field>ThankView__c.Unsubscribed__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Url__c</field>
+		<field>ThankView__c.Url__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Video_Reply__c</field>
+		<field>ThankView__c.Video_Reply__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Video_Url__c</field>
+		<field>ThankView__c.Video_Url__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
 	</fieldPermissions>
 	<fieldPermissions>
-		<field>ThankView_Log__c.Views__c</field>
+		<field>ThankView__c.Views__c</field>
 		<editable>true</editable>
 		<hidden>false</hidden>
 		<readable>true</readable>
